@@ -1,1 +1,1 @@
-# Car-Workshop-C-project-
+Car workshop was programmed using C++ language. A code for car workshop was programmed whose task was to store and manage the car information. Different modules were included such as storing the information of various car, editing, searching, deleting and then retrieving the desired car information on the basis of certain criteria. 
